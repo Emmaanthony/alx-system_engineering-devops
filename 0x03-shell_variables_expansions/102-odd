@@ -1,2 +1,2 @@
 #!/bin/bash
-pasta - - | cut -fl
+pasta - - | cut -f1
